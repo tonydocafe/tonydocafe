@@ -10,13 +10,15 @@
 
 ### ⚡ Tecnologias:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Google Colab" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
