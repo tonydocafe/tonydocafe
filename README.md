@@ -8,7 +8,7 @@
 
 </a>
 
-### ⚡ Tecnologias:
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
