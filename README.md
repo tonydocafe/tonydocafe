@@ -1,6 +1,6 @@
 
 
-## Tony Hudson Candido Junior 😎
+## Tony Hudson Candido Junior 🤖
 
 <a href="https://github.com/tonydocafe">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonydocafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
