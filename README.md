@@ -5,6 +5,9 @@
 ##  👉🏿 https://tonydocafe.github.io/to-know-more-about-me/ 👈🏿
 
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+  
 <a href="https://github.com/tonydocafe">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydocafe&layout=compact&langs_count=9&theme=dark&bg_color=000000&title_color=00ff00&text_color=00cc00&icon_color=00aa00"/>
    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=tonydocafe&bg_color=000000&color=00ff00&line=00aa00&point=00cc00&area=true&hide_border=true"/>
@@ -35,6 +38,7 @@
 <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="mailto:mneoacme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tony-jr-07b1a323a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 
