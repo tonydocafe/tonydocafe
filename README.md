@@ -5,7 +5,7 @@
 ##  👉🏿 https://tonydocafe.github.io/to-know-more-about-me/ 👈🏿
 
 
-![Status](./profile-3d-contrib/profile-night-dark-green.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
   
 <a href="https://github.com/tonydocafe">
