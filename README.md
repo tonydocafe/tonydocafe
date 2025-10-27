@@ -9,7 +9,7 @@
   
 <a href="https://github.com/tonydocafe">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydocafe&layout=compact&langs_count=9&theme=dark&bg_color=000000&title_color=00ff00&text_color=00cc00&icon_color=00aa00"/>
-   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=tonydocafe&bg_color=000000&color=00ff00&line=00aa00&point=00cc00&area=true&hide_border=true"/>
+  
 
 </a>
 
