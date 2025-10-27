@@ -8,7 +8,10 @@
 
   
 <a href="https://github.com/tonydocafe">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydocafe&layout=compact&langs_count=9&theme=dark&bg_color=000000&title_color=00ff00&text_color=00cc00&icon_color=00aa00"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonydocafe&layout=compact&langs_count=9&theme=dark&bg_color=000000&title_color=00ff00&text_color=00cc00&icon_color=00aa00"
+    width="100%" 
+    height="200px"
+     />
   
 
 </a>
@@ -26,7 +29,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
   <img align="center" alt="Google Colab" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+
 </div>
 
 ---
